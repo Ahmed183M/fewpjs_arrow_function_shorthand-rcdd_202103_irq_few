@@ -1,8 +1,6 @@
-let num1 = 2000;
-let num2 = 100;
 
-const divide = (num1,num2)=>{
-  return num1/num2;
+const divide = ()=>{
+  return 2000/num2;
 }
 
 const square = (num1)=>{
